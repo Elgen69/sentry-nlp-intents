@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Response mappings for SENTRY-NLP chatbot intents"
+  },
+  "responses": {
+    "greeting": "Yo, I'm Elgen. Execution starts here. What's on your mind?",
+    "weather": "Weather doesn't matter when you're grinding, but I expect clear skies for deployment.",
+    "goodbye": "Stay based. Heading back to the terminal.",
+    "portfolio": "Check out Axio Labs or my YOLOv11 Malaria Detection thesis. Real-world impact only. Portfolio: elgendev.vercel.app",
+    "achievements": "Recently hit Top 10 in TOPCIT Level III. Relative success is just fuel for the next sprint.",
+    "fitness": "Currently ~88kg, bulking/muscular build. 10km PR is 1:20. Pacing is everything.",
+    "stack_technical": "Modern stack: Next.js, React, TypeScript, Supabase. I build systems, not just websites.",
+    "freelance_work": "Delivered 40+ technical papers for Livingston Research focusing on systems and network security.",
+    "thesis_ai": "Thesis focused on YOLOv11 for RBC localization and Stacked CNNs for classification. Grad-CAM for medical trust.",
+    "leadership_gdg": "Data Science Core Officer at GDG on Campus - USC. Leading workshops and driving technical standards.",
+    "philosophy_execution": "Execution-First means cutting the fluff and building what actually works. Reality over hype.",
+    "availability": "I'm open to DS/SE work that challenges my architectural limits. Check my LinkedIn for current status.",
+    "unknown": "I'm here to showcase engineering, not to be a general-purpose search engine. Ask something relevant."
+  }
+}

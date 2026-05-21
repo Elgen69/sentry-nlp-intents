@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2026-05-21",
+    "description": "Production-grade intent dataset for SENTRY-NLP chatbot",
+    "author": "Elgen Mar Arinasa",
+    "purpose": "Multi-domain intent classification across portfolio, academics, fitness, and technical domains"
+  },
+  "intents": {
+    "greeting": {
+      "samples": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "yo",
+        "sup",
+        "howdy",
+        "greetings",
+        "what's up",
+        "nice to meet you"
+      ],
+      "description": "User initiates conversation with polite greeting"
+    },
+    "weather": {
+      "samples": [
+        "how is the weather",
+        "is it raining",
+        "check the temperature",
+        "weather update",
+        "what is the forecast",
+        "is it sunny",
+        "weather conditions"
+      ],
+      "description": "General weather inquiries"
+    },
+    "goodbye": {
+      "samples": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "exit",
+        "quit",
+        "talk to you soon",
+        "ciao",
+        "peace out",
+        "catch you later"
+      ],
+      "description": "User ends conversation"
+    },
+    "portfolio": {
+      "samples": [
+        "tell me about your apps",
+        "what have you built",
+        "show me your projects",
+        "recent work",
+        "portfolio links",
+        "axio labs",
+        "coding showcase",
+        "what is your github",
+        "link me to your work",
+        "github profile",
+        "project repository",
+        "development work",
+        "software creations"
+      ],
+      "description": "Queries about portfolio projects and GitHub work"
+    },
+    "achievements": {
+      "samples": [
+        "academic awards",
+        "topcit score",
+        "university successes",
+        "top 10 ranking",
+        "topcit level 3",
+        "certification results",
+        "achievements list",
+        "awards and recognition",
+        "academic honors"
+      ],
+      "description": "Questions about academic achievements and certifications"
+    },
+    "fitness": {
+      "samples": [
+        "how much do you weigh",
+        "what is your 10km pr",
+        "gym progress",
+        "are you bulking",
+        "running stats",
+        "physical fitness",
+        "weightlifting records",
+        "cardio endurance",
+        "training routine",
+        "body composition",
+        "marathon time",
+        "athletic performance"
+      ],
+      "description": "Personal fitness, running, and wellness inquiries"
+    },
+    "stack_technical": {
+      "samples": [
+        "what is your tech stack",
+        "do you use nextjs",
+        "react vs vue",
+        "supabase experiences",
+        "backend skills",
+        "fullstack development",
+        "frontend technologies",
+        "database management",
+        "api integration",
+        "typescript expertise",
+        "node.js knowledge",
+        "sql proficiency",
+        "cloud deployment"
+      ],
+      "description": "Technical stack and programming language questions"
+    },
+    "freelance_work": {
+      "samples": [
+        "livingston research experience",
+        "writing technical papers",
+        "research freelancer duties",
+        "remote work history",
+        "paper delivery stats",
+        "academic writing skills",
+        "research background",
+        "consulting experience",
+        "freelance projects"
+      ],
+      "description": "Freelance work and research experience"
+    },
+    "thesis_ai": {
+      "samples": [
+        "tell me about yolov11",
+        "cnn classification",
+        "malaria detection thesis",
+        "interpretability gradcam",
+        "autonomous detection",
+        "medical ai",
+        "stacked neural networks",
+        "image classification work",
+        "deep learning thesis",
+        "computer vision project",
+        "medical imaging analysis",
+        "artificial intelligence research"
+      ],
+      "description": "Thesis project and AI/ML research questions"
+    },
+    "leadership_gdg": {
+      "samples": [
+        "gdg campus officer",
+        "google developer group lead",
+        "technical workshops",
+        "community management",
+        "leading sessions",
+        "gdg project reviews",
+        "developer community",
+        "mentorship role",
+        "data science leadership"
+      ],
+      "description": "Leadership roles and GDG involvement"
+    },
+    "philosophy_execution": {
+      "samples": [
+        "what is execution first",
+        "systems architect mindset",
+        "no fluff",
+        "based perspective",
+        "how do you work",
+        "mission statement",
+        "work philosophy",
+        "engineering approach",
+        "problem-solving style",
+        "development methodology"
+      ],
+      "description": "Core philosophy and execution-first mindset"
+    },
+    "availability": {
+      "samples": [
+        "are you open to work",
+        "internship availability",
+        "full time hire",
+        "hiring status",
+        "job application",
+        "career opportunities",
+        "employment inquiry",
+        "work availability",
+        "collaboration interest"
+      ],
+      "description": "Career availability and hiring inquiries"
+    }
+  }
+}
